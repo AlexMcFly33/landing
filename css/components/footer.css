@@ -1,0 +1,34 @@
+.footer {
+  background-color: #153838;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100 60'%3E%3Cg %3E%3Crect fill='%23153838' width='11' height='11'/%3E%3Crect fill='%23153939' x='10' width='11' height='11'/%3E%3Crect fill='%23163a3a' y='10' width='11' height='11'/%3E%3Crect fill='%23163b3b' x='20' width='11' height='11'/%3E%3Crect fill='%23173c3c' x='10' y='10' width='11' height='11'/%3E%3Crect fill='%23173d3d' y='20' width='11' height='11'/%3E%3Crect fill='%23173e3e' x='30' width='11' height='11'/%3E%3Crect fill='%23183f3f' x='20' y='10' width='11' height='11'/%3E%3Crect fill='%23184040' x='10' y='20' width='11' height='11'/%3E%3Crect fill='%23194141' y='30' width='11' height='11'/%3E%3Crect fill='%23194242' x='40' width='11' height='11'/%3E%3Crect fill='%23194343' x='30' y='10' width='11' height='11'/%3E%3Crect fill='%231a4444' x='20' y='20' width='11' height='11'/%3E%3Crect fill='%231a4545' x='10' y='30' width='11' height='11'/%3E%3Crect fill='%231b4646' y='40' width='11' height='11'/%3E%3Crect fill='%231b4747' x='50' width='11' height='11'/%3E%3Crect fill='%231b4848' x='40' y='10' width='11' height='11'/%3E%3Crect fill='%231c4949' x='30' y='20' width='11' height='11'/%3E%3Crect fill='%231c4a4a' x='20' y='30' width='11' height='11'/%3E%3Crect fill='%231d4b4b' x='10' y='40' width='11' height='11'/%3E%3Crect fill='%231d4c4c' y='50' width='11' height='11'/%3E%3Crect fill='%231d4d4e' x='60' width='11' height='11'/%3E%3Crect fill='%231e4f4f' x='50' y='10' width='11' height='11'/%3E%3Crect fill='%231e5050' x='40' y='20' width='11' height='11'/%3E%3Crect fill='%231f5151' x='30' y='30' width='11' height='11'/%3E%3Crect fill='%231f5252' x='20' y='40' width='11' height='11'/%3E%3Crect fill='%231f5353' x='10' y='50' width='11' height='11'/%3E%3Crect fill='%23205454' x='70' width='11' height='11'/%3E%3Crect fill='%23205555' x='60' y='10' width='11' height='11'/%3E%3Crect fill='%23215656' x='50' y='20' width='11' height='11'/%3E%3Crect fill='%23215757' x='40' y='30' width='11' height='11'/%3E%3Crect fill='%23215858' x='30' y='40' width='11' height='11'/%3E%3Crect fill='%23225959' x='20' y='50' width='11' height='11'/%3E%3Crect fill='%23225a5a' x='80' width='11' height='11'/%3E%3Crect fill='%23235b5b' x='70' y='10' width='11' height='11'/%3E%3Crect fill='%23235c5c' x='60' y='20' width='11' height='11'/%3E%3Crect fill='%23235e5e' x='50' y='30' width='11' height='11'/%3E%3Crect fill='%23245f5f' x='40' y='40' width='11' height='11'/%3E%3Crect fill='%23246060' x='30' y='50' width='11' height='11'/%3E%3Crect fill='%23256161' x='90' width='11' height='11'/%3E%3Crect fill='%23256262' x='80' y='10' width='11' height='11'/%3E%3Crect fill='%23266363' x='70' y='20' width='11' height='11'/%3E%3Crect fill='%23266464' x='60' y='30' width='11' height='11'/%3E%3Crect fill='%23266565' x='50' y='40' width='11' height='11'/%3E%3Crect fill='%23276666' x='40' y='50' width='11' height='11'/%3E%3Crect fill='%23276767' x='90' y='10' width='11' height='11'/%3E%3Crect fill='%23286868' x='80' y='20' width='11' height='11'/%3E%3Crect fill='%23286a6a' x='70' y='30' width='11' height='11'/%3E%3Crect fill='%23286b6b' x='60' y='40' width='11' height='11'/%3E%3Crect fill='%23296c6c' x='50' y='50' width='11' height='11'/%3E%3Crect fill='%23296d6d' x='90' y='20' width='11' height='11'/%3E%3Crect fill='%232a6e6e' x='80' y='30' width='11' height='11'/%3E%3Crect fill='%232a6f6f' x='70' y='40' width='11' height='11'/%3E%3Crect fill='%232a7070' x='60' y='50' width='11' height='11'/%3E%3Crect fill='%232b7171' x='90' y='30' width='11' height='11'/%3E%3Crect fill='%232b7272' x='80' y='40' width='11' height='11'/%3E%3Crect fill='%232c7474' x='70' y='50' width='11' height='11'/%3E%3Crect fill='%232c7575' x='90' y='40' width='11' height='11'/%3E%3Crect fill='%232d7676' x='80' y='50' width='11' height='11'/%3E%3Crect fill='%232D7777' x='90' y='50' width='11' height='11'/%3E%3C/g%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 40px;
+  background-size: cover;
+  text-align: center;
+}
+
+.footer a {
+color: white;
+  font-size: 30px;
+  padding: 10px;
+  margin: 0;
+}
+
+.footer li {
+  display: inline;
+  list-style: none;
+  text-align: center;
+  margin: 0;
+}
+
+.footer p {
+  color: rgb(210, 208, 208);
+  font-size: 15px;
+  padding: 10px;
+}
+
+.footer ul {
+  margin: 0;
+  padding: 0;
+}
